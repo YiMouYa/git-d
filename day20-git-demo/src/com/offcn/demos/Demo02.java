@@ -9,6 +9,7 @@ public class Demo02 {
      */
     public static void main(String[] args) {
         System.out.println("新编辑的代码");
+        System.out.println("dev分支添加的代码");
     }
 
 }
